@@ -1,3 +1,5 @@
+~/.bashrc
+
 # HADOOP ENVIRONMENT
 export HADOOP_HOME=/usr/local/hadoop
 export HADOOP_CONF_DIR=/usr/local/hadoop/etc/hadoop
