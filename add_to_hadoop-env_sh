@@ -1,3 +1,5 @@
+# /usr/local/hadoop/etc/hadoop/hadoop-env.sh
+
 export HADOOP_OPTS=-Djava.net.preferIPv4Stack=true
 export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64
 export HADOOP_HOME_WARN_SUPPRESS="TRUE"
