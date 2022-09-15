@@ -1,4 +1,4 @@
-~/.bashrc
+# ~/.bashrc
 
 # HADOOP ENVIRONMENT
 export HADOOP_HOME=/usr/local/hadoop
